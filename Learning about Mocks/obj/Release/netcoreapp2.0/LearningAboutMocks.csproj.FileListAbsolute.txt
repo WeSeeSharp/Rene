@@ -1,0 +1,10 @@
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\bin\Release\netcoreapp2.0\LearningAboutMocks.deps.json
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\bin\Release\netcoreapp2.0\LearningAboutMocks.runtimeconfig.json
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\bin\Release\netcoreapp2.0\LearningAboutMocks.runtimeconfig.dev.json
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\bin\Release\netcoreapp2.0\LearningAboutMocks.dll
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\bin\Release\netcoreapp2.0\LearningAboutMocks.pdb
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\obj\Release\netcoreapp2.0\LearningAboutMocks.csproj.CoreCompileInputs.cache
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\obj\Release\netcoreapp2.0\LearningAboutMocks.AssemblyInfoInputs.cache
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\obj\Release\netcoreapp2.0\LearningAboutMocks.AssemblyInfo.cs
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\obj\Release\netcoreapp2.0\LearningAboutMocks.dll
+D:\Development\C# Projects\Learning about Mocks\Learning about Mocks\obj\Release\netcoreapp2.0\LearningAboutMocks.pdb

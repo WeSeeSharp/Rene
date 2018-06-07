@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/LearningAboutMockTests.csproj",
+    "projectName": "LearningAboutMockTests",
+    "projectPath": "/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/LearningAboutMockTests.csproj",
+    "outputPath": "/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/renerios/LearningProjects/learingCSharp/Learning about Mocks/LearningAboutMocks.csproj": {
+            "projectPath": "/Users/renerios/LearningProjects/learingCSharp/Learning about Mocks/LearningAboutMocks.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.7.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NSubstitute": {
+          "target": "Package",
+          "version": "[3.1.0, )"
+        },
+        "NSubstituteAutoMocker": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.10.1, )"
+        },
+        "NUnit.Console": {
+          "target": "Package",
+          "version": "[3.8.0, )"
+        },
+        "NUnit.ConsoleRunner": {
+          "target": "Package",
+          "version": "[3.8.0, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        },
+        "NUnitTestAdapter": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

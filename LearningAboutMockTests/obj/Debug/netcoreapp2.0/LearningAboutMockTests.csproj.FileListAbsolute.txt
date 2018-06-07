@@ -1,0 +1,36 @@
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.deps.json
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.runtimeconfig.json
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.runtimeconfig.dev.json
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.dll
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.pdb
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMocks.dll
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMocks.pdb
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.csprojResolveAssemblyReference.cache
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.csproj.CoreCompileInputs.cache
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.AssemblyInfoInputs.cache
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.AssemblyInfo.cs
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.csproj.CopyComplete
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.dll
+D:/Development/C# Projects/Learning about Mocks/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.pdb
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.deps.json
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.runtimeconfig.json
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.runtimeconfig.dev.json
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.dll
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMockTests.pdb
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMocks.dll
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/bin/Debug/netcoreapp2.0/LearningAboutMocks.pdb
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.csprojResolveAssemblyReference.cache
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.csproj.CoreCompileInputs.cache
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.AssemblyInfoInputs.cache
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.AssemblyInfo.cs
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.csproj.CopyComplete
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.dll
+/Users/renerios/LearningProjects/learingCSharp/LearningAboutMockTests/obj/Debug/netcoreapp2.0/LearningAboutMockTests.pdb
